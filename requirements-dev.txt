@@ -2,7 +2,7 @@
 azure-ai-formrecognizer==3.2.1
 Markdown==3.4.4
 requests==2.32.2
-tqdm==4.66.3
+tqdm==4.66.5
 tiktoken==0.4.0
 langchain==0.2.3
 bs4==0.0.1
